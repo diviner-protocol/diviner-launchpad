@@ -1,1 +1,1 @@
-# diviner-launchpad
+# Diviner Lauchpad
